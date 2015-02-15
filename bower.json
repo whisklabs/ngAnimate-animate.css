@@ -22,8 +22,8 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "latest",
-    "angular-animate": "latest",
-    "animate.css": "latest"
+    "angular": "~1.2.28",
+    "angular-animate": "~1.2.28",
+    "animate.css": "~3.2.0"
   }
 }
